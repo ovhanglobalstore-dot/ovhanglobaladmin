@@ -1,2 +1,0 @@
-# ovhanglobaladmin
-Administrator access only
